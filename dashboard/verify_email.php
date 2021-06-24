@@ -1,0 +1,1 @@
+d:\hireforcare\dashboard\verify_email.php
